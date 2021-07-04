@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Arvind calculator</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="into">*</string>
+    <string name="divide">/</string>
+</resources>
